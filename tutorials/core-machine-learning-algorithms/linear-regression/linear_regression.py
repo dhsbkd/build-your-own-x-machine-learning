@@ -44,7 +44,7 @@ if __name__ == "__main__":
     model.fit(X, y)
 
     # Make predictions
-    predictions = model.predict([[5],[10]])
+    predictions = model.predict([[5], [10], [10], [10]])
 
     # Print results
     print("Predictions:", predictions)
