@@ -32,6 +32,7 @@ class LinearRegression:
     def predict(self, X):
         return np.dot(X, self.weights) + self.bias
 
+# Example usage
 if __name__ == "__main__":
     # Generate sample data
     np.random.seed(0)
