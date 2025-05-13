@@ -37,7 +37,7 @@
 
 ### Core Machine Learning Algorithms
 
-- Implement Linear Regression from scratch
+- [Implement Linear Regression from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/linear-regression/linear_regression.py)
 - Implement Logistic Regression from scratch
 - Implement K-Nearest Neighbors (KNN)
 - Implement Naive Bayes
