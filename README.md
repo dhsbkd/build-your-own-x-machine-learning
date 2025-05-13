@@ -50,7 +50,7 @@
 - Implement Gradient Descent from scratch
 - Implement Gradient Boosting from scratch
 - [Implement Mean Squared Error (MSE) cost function](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/mean-squared-error/mean_squared_error.py)
-- Implement Mean Absolute Error (MAE) cost function
+- [Implement Mean Absolute Error (MAE) cost function](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/mean-absolute-error/mean_absolute_error.py)
 - Implement Sigmoid, Tanh, ReLU, LeakyReLU, and Softmax Activation Functions
 - Implement SGD, Adam, RMSprop, and Adagrad Optimizers
 - Implement AdaBoost from scratch
